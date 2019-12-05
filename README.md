@@ -12,3 +12,5 @@ Mostrar o estrago causado nas peças quando ocorre um erro, e o risco que os fun
 Depois criar uma animação mostrando o que acontece quando o funcionário utiliza as guias e suportes.
 
 <a href="https://imgflip.com/gif/3ijyhu"><img src="https://i.imgflip.com/3ijyhu.gif" title="made at imgflip.com"/></a>
+
+<a href="https://imgflip.com/gif/3ijza5"><img src="https://i.imgflip.com/3ijza5.gif" title="made at imgflip.com"/></a>
