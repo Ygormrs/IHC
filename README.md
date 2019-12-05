@@ -8,6 +8,6 @@ Depois criar uma animação mostrando o que acontece quando o funcionário utili
 
 
 
-<a href="https://imgflip.com/gif/3ijyhu"><img src="https://i.imgflip.com/3ijyhu.gif" width="400" height="400" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3ijyhu"><img src="https://i.imgflip.com/3ijyhu.gif" width="300" height="300" title="made at imgflip.com"/></a>
 
-<a href="https://imgflip.com/gif/3ijza5"><img src="https://i.imgflip.com/3ijza5.gif" width="400" height="400" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3ijza5"><img src="https://i.imgflip.com/3ijza5.gif" width="300" height="300" title="made at imgflip.com"/></a>
