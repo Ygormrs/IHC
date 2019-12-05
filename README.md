@@ -10,3 +10,5 @@ Mostrando a forma correta de manuseio do maquinário e ferramentas necessárias 
 criamos uma animação mostrando o que acontece quando o funcionário não utiliza as guias de furação e suportes.
 Mostrar o estrago causado nas peças quando ocorre um erro, e o risco que os funcionarios correm.
 Depois criar uma animação mostrando o que acontece quando o funcionário utiliza as guias e suportes.
+
+<a href="https://imgflip.com/gif/3ijyhu"><img src="https://i.imgflip.com/3ijyhu.gif" title="made at imgflip.com"/></a>
