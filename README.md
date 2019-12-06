@@ -2,7 +2,9 @@
 
 # Informações
 
-Trabalho de IHC - FATEC - Faculdade de Tecnologia Jessen Vidal Curso - Análise e desenvolvimento de sistemas - 3° periodo Matéria - Interação Humano Computador - Professor - Giuliano Alunos - Jonathan Deptulsqui e Ygor Melo.
+Trabalho de IHC - FATEC - Faculdade de Tecnologia Jessen Vidal Curso - Análise e desenvolvimento de sistemas - 3° periodo Matéria - Interação Humano Computador - Professor - Giuliano 
+Alunos - Jonathan Deptulsqui - Deptulsqui@gmail.com -
+Ygor Melo ygor.m.r@hotmail.com.
 
 Plataforma utilizada: UNITY .
 
