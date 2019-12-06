@@ -1,9 +1,9 @@
 # IHC
 
 # Informações
-Trabalho de IHC - FATEC - Faculdade de Tecnologia Jessen Vidal Curso - Análise e desenvolvimento de sistemas - 3° periodo Matéria - Interação Humano Computador - Professor - Giuliano Alunos - Jonathan Deptulsqui e Ygor Melo
-Plataforma utilizada: UNITY 
-Liguagem: C#
+Trabalho de IHC - FATEC - Faculdade de Tecnologia Jessen Vidal Curso - Análise e desenvolvimento de sistemas - 3° periodo Matéria - Interação Humano Computador - Professor - Giuliano Alunos - Jonathan Deptulsqui e Ygor Melo.
+Plataforma utilizada: UNITY .
+Liguagem: C#.
 
 # Introdução
 O intuito do projeto é criar em realidade uma animação para treinamento de funcionários da da empresa ####### .Mostrando a forma correta de manuseio do maquinário e ferramentas necessárias para o preparo de peças para linha de montagem.
