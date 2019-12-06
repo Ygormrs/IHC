@@ -2,7 +2,9 @@
 
 # Informações
 Trabalho de IHC - FATEC - Faculdade de Tecnologia Jessen Vidal Curso - Análise e desenvolvimento de sistemas - 3° periodo Matéria - Interação Humano Computador - Professor - Giuliano Alunos - Jonathan Deptulsqui e Ygor Melo.
+
 Plataforma utilizada: UNITY .
+
 Liguagem: C#.
 
 # Introdução
