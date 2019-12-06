@@ -9,11 +9,12 @@ O intuito do projeto é criar em realidade uma animação para treinamento de fu
 # Desenvolvimento
 Criamos uma animação mostrando o que acontece quando o funcionário não utiliza as guias de furação e suportes.
 Mostramos o estrago causado nas peças quando ocorre um erro, e o risco que os funcionarios correm.
-Depois criamos uma animação mostrando o que acontece quando o funcionário utiliza as guias e suportes.
+Depois criamos uma animação mostrando o que acontece quando o funcionário utiliza o stopdrill.
 
-
+## SEM STOPDRILL
 <a href="https://imgflip.com/gif/3ijyhu"><img src="https://i.imgflip.com/3ijyhu.gif" width="300" height="300" title="made at imgflip.com"/></a>
 
+## COM STOPDRILL
 <a href="https://imgflip.com/gif/3ijza5"><img src="https://i.imgflip.com/3ijza5.gif" width="300" height="300" title="made at imgflip.com"/></a>
 
 # Conclusão
