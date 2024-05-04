@@ -8,7 +8,7 @@ Ygor Melo ygor.m.r@hotmail.com.
 
 Plataforma utilizada: UNITY .
 
-Liguagem: C#.
+Linguagem: C#.
 
 # Introdução
 
